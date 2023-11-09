@@ -8,7 +8,7 @@
 --------------
 
 ## ✅ [ `Python MongoDB Connection` ](https://gist.github.com/prathmeshbankar03/0828fd77c69a50b015f44ba5b0e4a2d5)
-  > Establish Connection between Python and your MySQL instance.
+  > Establish Connection between Python and your MongoDB instance.
 
 --------------
 
