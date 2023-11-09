@@ -12,3 +12,5 @@
 
 --------------
 
+## ✅ [ `Node.js MySQL Connection` ](https://gist.github.com/prathmeshbankar03/0c847697af663d4ba507de20f8b13e14)
+  > Establish Connection between Node.js and your MySQL instance.
