@@ -14,3 +14,8 @@
 
 ## ✅ [ `Node.js MySQL Connection` ](https://gist.github.com/prathmeshbankar03/0c847697af663d4ba507de20f8b13e14)
   > Establish Connection between Node.js and your MySQL instance.
+
+--------------
+
+## ✅ [ `Node.js MongoDB Connection` ](https://gist.github.com/prathmeshbankar03/98155662eff1d8c54c668635a778bab9)
+  > Establish Connection between Node.js and your MongoDB instance.
